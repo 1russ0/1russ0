@@ -1,4 +1,4 @@
-## Òla  me chamo Davi 👋
+## Olá  me chamo Davi 👋
 
 <!--
 **1russ0/1russ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
