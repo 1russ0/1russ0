@@ -1,16 +1,25 @@
-## Olá  me chamo Davi 👋
+👋 Olá, eu sou Carlos Eduardo!
+Sou estudante de curso de Desenvolvimento Web com PHP e estou aprendendo a construir aplicações web modernas. Este repositório serve como meu portfólio de projetos e exercícios do curso. 🚀
 
-<!--
-**1russ0/1russ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias e Ferramentas
+Linguagens: PHP, HTML, CSS, JavaScript
+Banco de Dados: MySQL
+Frameworks: Laravel, Bootstrap
+Ferramentas: Git, GitHub, VS Code, XAMPP
+📌 Projetos e Exercícios
+Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
-Here are some ideas to get you started:
+🔹 Projeto 1 - Meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 O que estou aprendendo
+✔️ Fundamentos do PHP e MySQL
+✔️ Estruturação de projetos web
+✔️ Controle de versão com Git e GitHub
+✔️ Desenvolvimento de aplicações dinâmicas
+
+📬 Contato
+📧 Email: dvmr41903@gmail.com
+🔗 GitHub: https://github.com/1russ0
+
+💡 "Aprender a programar é abrir portas para um novo mundo de possibilidades!"
+
