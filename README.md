@@ -23,3 +23,4 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 
 💡 "Aprender a programar é abrir portas para um novo mundo de possibilidades!"
 
+<img src="https://github.com/0joseDark/0joseDark/blob/main/assets/php.svg" alt="php" width="100" height="100">
