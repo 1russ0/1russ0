@@ -18,8 +18,8 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ✔️ Desenvolvimento de aplicações dinâmicas
 
 📬 Contato
-📧 Email: dvmr41903@gmail.com
-🔗 GitHub: https://github.com/1russ0
+📧 Email: [aqui](dvmr41903@gmail.com)
+🔗 GitHub: [aqui](https://github.com/1russ0)
 
 💡 "Aprender a programar é abrir portas para um novo mundo de possibilidades!"
 
