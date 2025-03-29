@@ -9,8 +9,8 @@ Ferramentas: Git, GitHub, VS Code, XAMPP
 📌 Projetos e Exercícios
 Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
-🔹 Projeto 1 - Meu perfil
-
+🔹 Projeto 1 - https://github.com/1russ0
+🔹 Projeto 2 - https://github.com/1russ0/NossoProjeto 
 📖 O que estou aprendendo
 ✔️ Fundamentos do PHP e MySQL
 ✔️ Estruturação de projetos web
